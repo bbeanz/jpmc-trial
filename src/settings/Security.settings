@@ -5,38 +5,7 @@
     <enableAuditFieldsInactiveOwner>false</enableAuditFieldsInactiveOwner>
     <enableAuraSecureEvalPref>true</enableAuraSecureEvalPref>
     <enableRequireHttpsConnection>true</enableRequireHttpsConnection>
-    <networkAccess>
-        <ipRanges>
-            <description>Copado03</description>
-            <end>35.234.89.246</end>
-            <start>35.234.89.246</start>
-        </ipRanges>
-        <ipRanges>
-            <description>Copado02</description>
-            <end>34.141.10.40</end>
-            <start>34.141.10.40</start>
-        </ipRanges>
-        <ipRanges>
-            <description>Copado01</description>
-            <end>34.107.90.223</end>
-            <start>34.107.90.223</start>
-        </ipRanges>
-        <ipRanges>
-            <description>Copado04-DR</description>
-            <end>34.91.173.111</end>
-            <start>34.91.173.111</start>
-        </ipRanges>
-        <ipRanges>
-            <description>Copado05-DR</description>
-            <end>34.91.55.187</end>
-            <start>34.91.55.187</start>
-        </ipRanges>
-        <ipRanges>
-            <description>Copado06-DR</description>
-            <end>34.90.11.138</end>
-            <start>34.90.11.138</start>
-        </ipRanges>
-    </networkAccess>
+    <networkAccess/>
     <passwordPolicies>
         <complexity>AlphaNumeric</complexity>
         <expiration>NinetyDays</expiration>

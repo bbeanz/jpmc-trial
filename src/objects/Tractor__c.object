@@ -209,7 +209,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Tractors</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
