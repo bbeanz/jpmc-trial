@@ -70,6 +70,10 @@
                 <behavior>Readonly</behavior>
                 <field>AccountId</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Dev2__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
