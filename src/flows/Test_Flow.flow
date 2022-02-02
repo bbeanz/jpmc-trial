@@ -34,7 +34,7 @@
         <dataType>Boolean</dataType>
         <expression>true</expression>
     </formulas>
-    <interviewLabel>Test_Flow-1_InterviewLabel</interviewLabel>
+    <interviewLabel>Test_Flow-2_InterviewLabel</interviewLabel>
     <label>Test Flow</label>
     <processMetadataValues>
         <name>ObjectType</name>
@@ -57,7 +57,7 @@
     <processMetadataValues>
         <name>TriggerType</name>
         <value>
-            <stringValue>onCreateOnly</stringValue>
+            <stringValue>onAllChanges</stringValue>
         </value>
     </processMetadataValues>
     <processType>Workflow</processType>
